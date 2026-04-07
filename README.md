@@ -1,16 +1,21 @@
-# meals
+# 🍔 تطبيق وصفات الطعام (Meals App)
 
-A new Flutter project.
+تطبيق احترافي وتفاعلي لاستعراض الوجبات وتصنيفاتها، يتيح للمستخدم استكشاف الوصفات، تصفيتها حسب الحاجة، وحفظ الوجبات المفضلة. تم بناء هذا المشروع لتوثيق مهاراتي المتقدمة في إطار عمل Flutter.
 
-## Getting Started
+## 🌟 نبذة عن المشروع
+هذا المشروع هو تطبيق عملي للمجلدات (8، 9، و11) من كورس "Flutter & Dart - The Complete Guide" للمدرب ماكسيميليان. من خلاله، طبقت مفاهيم هندسة التطبيقات وكيفية بناء واجهات مستخدم معقدة وسلسة.
 
-This project is a starting point for a Flutter application.
+## 🛠️ المهارات التي طبقتها في هذا المشروع:
+* **التنقل المتقدم (Navigation):** إدارة التنقل بين الشاشات باستخدام التبويبات (Tabs)، القائمة الجانبية (Drawer)، وتمرير البيانات المعقدة.
+* **إدارة الحالة (State Management):** استخدام **Riverpod** لإدارة حالة الوجبات المفضلة ونظام الفلاتر بشكل مركزي وفعال.
+* **الرسوم المتحركة التفاعلية (Animations):** تطبيق مفاهيم المجلد 11، حيث أضفت حركات انتقالية (Hero Animations) بين الشاشات ورسوم متحركة مخصصة (Explicit Animations) لإعطاء لمسة جمالية واحترافية لتجربة المستخدم.
+* **منطق التصفية (Filtering Logic):** بناء نظام تصفية دقيق للوجبات (خالي من الجلوتين، نباتي، إلخ) لضمان عرض المحتوى المناسب للمستخدم.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 التقنيات المستخدمة
+- Flutter & Dart
+- Riverpod (State Management)
+- Animations & Transitions (Module 11)
+- Google Fonts
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+*هذا المشروع جزء من رحلتي في تعلم وتطوير تطبيقات الموبايل، وهو يوثق انتقالي لمرحلة بناء الواجهات التفاعلية المتقدمة.*
